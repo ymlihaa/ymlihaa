@@ -1,4 +1,3 @@
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WRzDZndJCduHwqgOpWmbhQ.png" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
