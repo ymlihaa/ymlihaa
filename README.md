@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" src="https://i.pinimg.com/564x/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.jpg" height="250" widht="250">
-- 🔭 I’m currently working on **react, vue , javascript**
 
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on **react** , **vue** , **javascript**
+
+- 🌱 I’m currently learning **NextJS**, **Jest** and **docker** .
+
+- 🤖 I'm interested in everything related to chatgpt . 
 
 - 💬 Ask me about **react, vue , javascript**
 
