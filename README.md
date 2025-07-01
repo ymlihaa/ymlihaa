@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**, **Jest** and **docker** .
 
-- 🤖 I'm interested in everything related to chatgpt . 
+- 🤖 I'm interested in everything related to ai . 
 
 - 💬 Ask me about **react, vue , javascript**
 
