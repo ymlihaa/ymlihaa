@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, vue , javascript**
 
-- :running:   I am a software engineer and I have been focusing on front-end technologies for the past 1.5+ years. I am particularly skilled in developing applications using **React, Vue, and JavaScript**.
+- :running:   I am a software engineer and I have been focusing on front-end technologies for the past 3+ years. I am particularly skilled in developing applications using **React, Vue, and JavaScript**.
 
 
 <h3 align="left">Connect with me:</h3>
